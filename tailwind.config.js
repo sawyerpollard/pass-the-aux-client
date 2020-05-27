@@ -8,6 +8,7 @@ module.exports = {
         },
     },
     variants: {
+        backgroundColor: ['first'],
     },
     plugins: [],
 };
