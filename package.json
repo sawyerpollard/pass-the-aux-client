@@ -46,6 +46,8 @@
         "webpack-merge": "^4.2.2"
     },
     "dependencies": {
+        "@reach/dialog": "^0.10.3",
+        "@reach/slider": "^0.10.3",
         "react": "^16.13.1",
         "react-dom": "^16.13.1",
         "tailwindcss": "^1.4.6"
