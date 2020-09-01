@@ -42,7 +42,7 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-purgecss`,
+      resolve: `gatsby-plugin-purgecss`, 
       options: { 
         tailwind: true,
         printRejected: true,
